@@ -1,0 +1,5 @@
+/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/CMakeFiles/DualLabTestTask.dir
+/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/CMakeFiles/catch_main.dir
+/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/CMakeFiles/test.dir

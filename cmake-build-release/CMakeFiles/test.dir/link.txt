@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++2a -s -O2 -O3 -DNDEBUG   CMakeFiles/test.dir/SegmentTree.cpp.o CMakeFiles/test.dir/test.cpp.o  -o test  libcatch_main.a 

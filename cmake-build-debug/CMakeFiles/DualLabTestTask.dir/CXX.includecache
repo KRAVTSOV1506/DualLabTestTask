@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kravtsov/CLionProjects/DualLabTestTask/SegmentTree.cpp
+SegmentTree.h
+/home/kravtsov/CLionProjects/DualLabTestTask/SegmentTree.h
+
+/home/kravtsov/CLionProjects/DualLabTestTask/SegmentTree.h
+vector
+-
+
+/home/kravtsov/CLionProjects/DualLabTestTask/main.cpp
+iostream
+-
+SegmentTree.h
+/home/kravtsov/CLionProjects/DualLabTestTask/SegmentTree.h
+

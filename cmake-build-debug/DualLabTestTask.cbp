@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="DualLabTestTask"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DualLabTestTask">
+				<Option output="/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/DualLabTestTask" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 DualLabTestTask"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DualLabTestTask/fast">
+				<Option output="/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/DualLabTestTask" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 DualLabTestTask/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="catch_main">
+				<Option output="/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/libcatch_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/kravtsov/CLionProjects/DualLabTestTask/catch"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 catch_main"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="catch_main/fast">
+				<Option output="/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/libcatch_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/kravtsov/CLionProjects/DualLabTestTask/catch"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 catch_main/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test">
+				<Option output="/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/kravtsov/CLionProjects/DualLabTestTask/catch"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 test"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test/fast">
+				<Option output="/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/kravtsov/CLionProjects/DualLabTestTask/catch"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 test/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/kravtsov/CLionProjects/DualLabTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/kravtsov/CLionProjects/DualLabTestTask/SegmentTree.cpp">
+			<Option target="DualLabTestTask"/>
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/kravtsov/CLionProjects/DualLabTestTask/SegmentTree.h">
+			<Option target="DualLabTestTask"/>
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/kravtsov/CLionProjects/DualLabTestTask/catch/catch_main.cpp">
+			<Option target="catch_main"/>
+		</Unit>
+		<Unit filename="/home/kravtsov/CLionProjects/DualLabTestTask/main.cpp">
+			<Option target="DualLabTestTask"/>
+		</Unit>
+		<Unit filename="/home/kravtsov/CLionProjects/DualLabTestTask/test.cpp">
+			<Option target="DualLabTestTask"/>
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/kravtsov/CLionProjects/DualLabTestTask/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

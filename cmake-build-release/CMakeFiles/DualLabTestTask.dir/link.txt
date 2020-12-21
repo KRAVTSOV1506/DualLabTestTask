@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++2a -s -O2 -O3 -DNDEBUG   CMakeFiles/DualLabTestTask.dir/main.cpp.o CMakeFiles/DualLabTestTask.dir/SegmentTree.cpp.o CMakeFiles/DualLabTestTask.dir/test.cpp.o  -o DualLabTestTask 

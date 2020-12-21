@@ -22,6 +22,11 @@ int SegmentTree::Rgq(int left, int right) {
     */
     left += pow_;
     right += pow_;
+
+    if (left >= data_.size() || left < 0 || right >= data_.size() || right < 0) {
+        throw std::runtime_error("Index out of range");
+    }
+
     int result = 0;
 
     while (left <= right) {
@@ -44,6 +49,11 @@ void SegmentTree::Switch(int index) {
      * switch element in index position and recalculate DO, indexed from zero
     */
     index += pow_;
+
+    if (index >= data_.size() || index < 0) {
+        throw std::runtime_error("Index out of range");
+    }
+
     int new_value = data_[index] == 1 ? 0 : 1;
     int extra = new_value - data_[index];
     data_[index] = new_value;

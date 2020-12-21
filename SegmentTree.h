@@ -2,6 +2,9 @@
 #define DUALLABTESTTASK_SEGMENTTREE_H
 
 #include <vector>
+#include <exception>
+#include <stdexcept>
+
 
 class SegmentTree {
 public:

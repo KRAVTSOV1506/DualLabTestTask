@@ -2,7 +2,6 @@
 #include <vector>
 #include <chrono>
 #include <random>
-#include <iostream>
 
 #include "SegmentTree.h"
 
@@ -41,8 +40,6 @@ void Test(const std::vector<int>& initial_state, const std::vector<Query>& query
 
     auto finish = std::chrono::system_clock::now();
     auto elapsed = std::chrono::duration_cast<std::chrono::milliseconds>(finish - start).count();
-
-    std::cout << elapsed << std::endl;
 
     REQUIRE(elapsed <= 2000);
     if (!truth.empty()) {
